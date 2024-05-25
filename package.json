@@ -1,7 +1,7 @@
 {
-  "name": "adefebrian",
+  "name": "igamal",
   "version": "1.0.0",
-  "description": "Advanced adefebrian project containing ERC20 token contract with additional functionalities such as token vesting, staking, and governance for tea project.",
+  "description": "Advanced igamal project containing ERC20 token contract with additional functionalities such as token vesting, staking, and governance for tea project.",
   "main": "index.js",
   "scripts": {
     "compile": "truffle compile",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adefebrian/biantea"
+    "url": "git@github.com:iGamal0655/EOSS-TEA.git"
   },
   "keywords": [
     "ethereum",
@@ -21,7 +21,7 @@
     "staking",
     "governance"
   ],
-  "author": "Ade Febrian",
+  "author": "igamal",
   "license": "MIT",
   "dependencies": {
     "@openzeppelin/contracts": "^4.5.0",
